@@ -1,5 +1,5 @@
 {
-  "name": "umbrellio/laravel-ltree",
+  "name": "anorekhov/laravel-ltree",
   "type": "library",
   "description": "Extension LTree (Postgres) for Laravel",
   "keywords": [
